@@ -16,3 +16,5 @@ The deck is made of different pairs of cards, each with different symbols on one
 4.	jQuery
 5.	Bootstrap
 6.	SweetAlert
+
+## Screenshot
