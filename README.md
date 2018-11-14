@@ -19,4 +19,5 @@ The deck is made of different pairs of cards, each with different symbols on one
 
 ## Screenshot
 
-
+![Img](img/main.png)
+![Img](img/win.png)
